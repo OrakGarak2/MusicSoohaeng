@@ -914,7 +914,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 3a2ffaa9414b61d4a9e8780b4f2e1a7a, type: 3}
   - {fileID: 8300000, guid: ec38bcdc5e5d74e489aa9c08d2dd21ee, type: 3}
   - {fileID: 8300000, guid: c648b5fd4254d5c46b3ce9435ccfb468, type: 3}
-  instrument: 0
+  instrument: 3
   dropdown: {fileID: 199835920}
   keyCode: 115
 --- !u!1 &130140610
@@ -4421,7 +4421,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: a7b61825a53ddd048aa29685821867a3, type: 3}
   - {fileID: 8300000, guid: 1f5e3a6aa5d939e4a9452716dbaba147, type: 3}
   - {fileID: 8300000, guid: b1112ce5ec80fc8478812147405334c9, type: 3}
-  instrument: 0
+  instrument: 1
   dropdown: {fileID: 880750348}
   keyCode: 276
 --- !u!1 &1069668304
@@ -4684,7 +4684,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 2e1c7c728eee88346a1a51a041faf0e4, type: 3}
   - {fileID: 8300000, guid: d1cd78baffb785846bd2b8e875677244, type: 3}
   - {fileID: 8300000, guid: 2305533210082bd4caa2ed70a89b664b, type: 3}
-  instrument: 0
+  instrument: 3
   dropdown: {fileID: 504413095}
   keyCode: 273
 --- !u!1 &1078740477
@@ -5088,7 +5088,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 66ab34b61bf21c441bd12d0588516fc9, type: 3}
   - {fileID: 8300000, guid: 7b7be1ea8a13e7c4280f84468515b1cf, type: 3}
   - {fileID: 8300000, guid: 0c7af61c5f9a4f14aa31300395d250af, type: 3}
-  instrument: 0
+  instrument: 1
   dropdown: {fileID: 901331448}
   keyCode: 119
 --- !u!1 &1200092702
@@ -7256,7 +7256,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 5a4a44dd9c64ea547892117872b9e8d2, type: 3}
   - {fileID: 8300000, guid: 3c47a57363e3fd14a8d5a0353bee8175, type: 3}
   - {fileID: 8300000, guid: c70d93908f9c39b43b04886f0f5d0d64, type: 3}
-  instrument: 0
+  instrument: 2
   dropdown: {fileID: 1030693386}
   keyCode: 97
 --- !u!1 &1754308732
@@ -8700,7 +8700,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 7cddfe29b7c52c14395b47e4ee86ee97, type: 3}
   - {fileID: 8300000, guid: 756810e2b306b064f9012b9d2beb90cd, type: 3}
   - {fileID: 8300000, guid: affc5155928746f489641cff336ab04d, type: 3}
-  instrument: 0
+  instrument: 2
   dropdown: {fileID: 1429149993}
   keyCode: 100
 --- !u!1 &1912732976

@@ -24,6 +24,8 @@ public class Note : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        dropdown.value = (int)instrument;
+
         dropdown.onValueChanged.AddListener(OnDropdownEvent);
     }
 
