@@ -41,7 +41,14 @@ public class Note : MonoBehaviour
     {
         if(Input.GetKeyDown(keyCode))
         {
-            AudioManager.audioSource.PlayOneShot(noteList[(int)instrument]);
+            float volume = 1;
+
+            if(instrument == instruments.UltraPiano)
+            {
+                volume = 0.3f;
+            }
+
+            AudioManager.audioSource.PlayOneShot(noteList[(int)instrument], volume);
         }
     }
 }

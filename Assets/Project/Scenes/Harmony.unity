@@ -5088,7 +5088,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 66ab34b61bf21c441bd12d0588516fc9, type: 3}
   - {fileID: 8300000, guid: 7b7be1ea8a13e7c4280f84468515b1cf, type: 3}
   - {fileID: 8300000, guid: 0c7af61c5f9a4f14aa31300395d250af, type: 3}
-  instrument: 1
+  instrument: 0
   dropdown: {fileID: 901331448}
   keyCode: 119
 --- !u!1 &1200092702
